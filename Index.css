@@ -1,0 +1,130 @@
+body{
+    margin:0;
+    padding:0;
+    
+}
+.header{
+    background-color: rgb(244, 246, 246);
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+}    
+
+.parrafin{
+    font-family: 'Open Sans', sans-serif;
+    color: rgb(255, 255, 255);
+    background-color: cornflowerblue;
+    height: 100px;
+}
+
+.titulin{
+    font-family: 'Open Sans', sans-serif;
+    color: rgb(255, 255, 255);
+
+    display: flex;
+    background-image: url(/images/theDoors.jpg);
+    width: 1920px;
+    height: 300px;
+    justify-content: center;
+    align-items: flex-end;
+    border: 2px;
+}
+.tittle {
+    display: flex;
+    justify-content: center;
+}
+
+
+
+
+.flex-container{
+    display: flex;
+    justify-content: space-between;
+    align-items: flex-end;
+   
+}
+
+.flex-item1 {
+    border: 2px;
+    padding: 40px;
+    background-color: whitesmoke;
+    margin: 40px; 
+    width: 285px;
+    border-radius: 12px;
+    background-color: whitesmoke;
+    box-shadow: none;
+    box-shadow: 1px -16px rgb(65, 69, 69);
+    box-shadow: 2px 2px 2px 1px rgba(0, 0, 0, 0.2);
+    
+    
+    
+}
+
+.flex-item2 {
+    border: 2px;
+    padding: 40px;
+    background-color: whitesmoke;
+    margin: 40px; 
+    width: 285px;
+    border-radius: 12px;
+    background-color: whitesmoke;
+    box-shadow: none;
+    box-shadow: 1px -16px rgb(65, 69, 69);
+    box-shadow: 2px 2px 2px 1px rgba(0, 0, 0, 0.2);
+}
+
+
+.flex-item3 {
+    border: 2px;
+    padding: 40px;
+    background-color: whitesmoke;
+    margin: 40px; 
+    width: 285px;
+    border-radius: 12px;
+    background-color: whitesmoke;
+    box-shadow: none;
+    box-shadow: 1px -16px rgb(65, 69, 69);
+    box-shadow: 2px 2px 2px 1px rgba(0, 0, 0, 0.2);
+}
+
+
+.flex-item4 {
+    border: 2px;
+    padding: 40px;
+    background-color: whitesmoke;
+    margin: 40px; 
+    width: 285px;
+    border-radius: 12px;
+    background-color: whitesmoke;
+    box-shadow: none;
+    box-shadow: 1px -16px rgb(65, 69, 69);
+    box-shadow: 2px 2px 2px 1px rgba(0, 0, 0, 0.2);
+}
+
+
+.Jim{
+    height: 100px;
+    width: 180px;
+}
+
+.arrollador{
+    height: 100px;
+    width: 180px;
+}
+
+.pink{
+    height: 130px;
+    width: 200px;
+}
+
+.antesdespues{
+    height: 130px;
+    width: 200px;
+}
+
+.finally{
+    background-color: cornflowerblue;
+    display: flex;
+    justify-content: center;
+    align-items: end;
+}
